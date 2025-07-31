@@ -1,6 +1,0 @@
-{
-  "iEEGCoordinateSystem": "ScanRAS",
-  "iEEGCoordinateUnits": "mm",
-  "iEEGCoordinateSystemDescription": "RAS system having as origin center of image",
-  "IntendedFor": "T1w"
-}
